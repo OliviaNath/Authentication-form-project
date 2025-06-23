@@ -1,1 +1,1 @@
-# Authentication-form-project
+# Authentication-form-project .It is a project with a simple signup and login system which work together and return successful only when the credentials of both the forms match.If a user forgets his/her password then he/she can create a strong password of their own of 8 characters, and reset it.  
